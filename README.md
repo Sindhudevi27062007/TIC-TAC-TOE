@@ -17,4 +17,5 @@ Tic-Tac-Toe, also known as Noughts and Crosses, is a classic two-player strategy
 This project is a digital implementation of Tic-Tac-Toe, developed using programming languages such as Python, Java, or JavaScript, with options for single-player (vs AI) or two-player modes.
 
 #Output of Task 2
+
 <img width="480" height="680" alt="Image" src="https://github.com/user-attachments/assets/c5b65037-1dbc-4a24-ab6d-2e33abdc1bee" />
